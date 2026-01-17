@@ -10,6 +10,8 @@ Hi! This is just something I'm doing as a hobby because I have nothing better to
 
 Now while it's not my intention for this to be a full on *replacement* for the Fandom Wiki, after all, the information will never ever be as up to date as it is on fandom, I do hope some people can use this as a simple way of viewing the same information, more comfortably.
 
+_btw pls dont like analyse my code and make fun of it or smth pls im not that good ik the code sucks gimme a break this is like the first actual thing ive coded :c_
+
 ## Website Info
 
 The website is hosted on [Neocities.org](https://neocities.org) with the domain [yonkagor.wiki](https://yonkagor.wiki)
@@ -22,7 +24,7 @@ A table of all the pages I am recreating.
 | ---- |:------:|
 | [All My Fellas](https://yonkagor.wiki/All_My_Fellas) | Done ✓ |
 | [Another Mistake](https://yonkagor.wiki/Another_Mistake) | Done ✓ |
-| Artificial Abandonment | Not Started ✕ |
+| [Artificial Abandonment](https://yonkagor.wiki/Artificial_Abandonment) | Done ✓ |
 | Betta | Not Started ✕ |
 | Biased Truth | Not Started ✕ |
 | Bitter and Blunt | Not Started ✕ |

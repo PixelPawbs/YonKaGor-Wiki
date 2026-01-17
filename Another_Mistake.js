@@ -47,27 +47,3 @@ AMunusedSingleArt.addEventListener("click", function () {
   AMimage.src = "AnotherMistakeStemOld.png";
   AMimageLink.href = "AnotherMistakeStemOld.png";
 });
-
-// Artificical Abandonment Tabs
-const AAthumbnail = document.getElementById("AAthumbnail");
-const AAunusedSingleArt = document.getElementById("AAunusedSingleArt");
-
-const AAthumbnailLabel = document.getElementById("AAthumbnailLabel");
-const AAunusedSingleArtLabel = document.getElementById("AAunusedSingleArtLabel");
-
-const AAimage = document.getElementById("AAimg");
-const AAimageLink = document.getElementById("AAimgLink");
-
-AAthumbnail.addEventListener("click", function () {
-  AAthumbnailLabel.classList.add('active');
-  AAunusedSingleArtLabel.classList.remove('active');
-  AAimage.src = "ArtificialAbandonment.png";
-  AAimageLink.href = "ArtificialAbandonment.png";
-});
-
-AAunusedSingleArt.addEventListener("click", function () {
-  AAunusedSingleArtLabel.classList.add('active');
-  AAthumbnailLabel.classList.remove('active');
-  AAimage.src = "ArtificialAbandonmentStem.png";
-  AAimageLink.href = "ArtificialAbandonmentStem.png";
-});
