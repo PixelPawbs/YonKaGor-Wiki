@@ -177,6 +177,7 @@ aside .pitablabel {
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
+  user-select: none;
   color: rgba(230,230,230,0.75);
 }
 aside .pi {
@@ -262,7 +263,11 @@ aside .piimg {
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
+  user-select: none;
   color: rgba(230,230,230,0.75);
+}
+ul ul {
+	margin: 6px 0 18px;
 }
 .gallery {
 	display: grid;
