@@ -25,7 +25,7 @@ A table of all the pages I am recreating.
 | [All My Fellas](https://yonkagor.wiki/All_My_Fellas) | Done ✓ |
 | [Another Mistake](https://yonkagor.wiki/Another_Mistake) | Done ✓ |
 | [Artificial Abandonment](https://yonkagor.wiki/Artificial_Abandonment) | Done ✓ |
-| Betta | Not Started ✕ |
+| Betta | Started ••• |
 | Biased Truth | Not Started ✕ |
 | Bitter and Blunt | Not Started ✕ |
 | Blue Bird | Not Started ✕ |
