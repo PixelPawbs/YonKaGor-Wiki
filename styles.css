@@ -52,7 +52,7 @@ article {
 	background: #7a0909;
 	color: #e6e6e6;
 	padding: 24px 36px;
-	margin: 0 auto 48px;
+	margin: 0 auto 132px;
 	max-width: 940px;
 }
 a {
@@ -149,7 +149,7 @@ aside .pitabs {
   list-style: none;
 	margin: 0;
   padding: 0;
-  scrollbar-width: none;
+  scrollbar-width: thin;
 }
 aside .pitab {
 	padding: 22px 9px;
@@ -177,6 +177,11 @@ aside .pitablabel {
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
   user-select: none;
   color: rgba(230,230,230,0.75);
 }
@@ -234,7 +239,7 @@ aside .piimg {
   list-style: none;
 	margin: 0;
   padding: 0;
-  scrollbar-width: none;
+  scrollbar-width: thin;
   border-bottom: 1px solid #954040;
 }
 .lctab {
@@ -263,6 +268,11 @@ aside .piimg {
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
   user-select: none;
   color: rgba(230,230,230,0.75);
 }
@@ -320,6 +330,12 @@ nav a:hover {
 .top {
 	display:block;
 	text-align: center;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .links li {
   line-height: 2;
@@ -331,7 +347,8 @@ nav a:hover {
 }
 @media (max-width: 670px) {
 	article {
-	  padding: 12px 8px;
+	  padding: 12px 12px;
+	  margin-top: 40px;
   }
 }
 @media (max-width: 614px) {
