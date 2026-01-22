@@ -288,6 +288,9 @@ ul ul {
 .gallerytext {
 	font-size: 12px;
 }
+.galleryitem {
+	margin-bottom: 20px;
+}
 .galleryitem img {
 	width: 250px;
 }

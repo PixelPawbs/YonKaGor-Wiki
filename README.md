@@ -26,7 +26,7 @@ A table of all the pages I am recreating.
 | [Another Mistake](https://yonkagor.wiki/Another_Mistake) | Done ✓ |
 | [Artificial Abandonment](https://yonkagor.wiki/Artificial_Abandonment) | Done ✓ |
 | [Betta](https://yonkagor.wiki/Betta) | Done ✓ |
-| Biased Truth | Not Started ✕ |
+| [Biased Truth](https://yonkagor.wiki/Biased_Truth) | Done ✓ |
 | Bitter and Blunt | Not Started ✕ |
 | Blue Bird | Not Started ✕ |
 | Buddy Holly | Not Started ✕ |
